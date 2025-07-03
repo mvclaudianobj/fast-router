@@ -1,6 +1,6 @@
 <?
 
-namespace IsraelNogueira\fastRouter;
+namespace MarcosClaudiano\fastRouter;
 use RuntimeException;
 use Closure;
 
