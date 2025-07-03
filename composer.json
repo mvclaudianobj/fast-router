@@ -1,21 +1,21 @@
 {
-    "name": "israel-nogueira/fast-router",
+    "name": "mvclaudianobj/fast-router",
     "description": "Classe para gerenciar as suas rotas no PHP com facilidade e segurança",
-    "homepage": "https://github.com/israel-nogueira/fast-router",
+    "homepage": "https://github.com/mvclaudianobj/fast-router",
     "type": "library",
     "license": "GPL-3.0-or-later",
 
     "keywords": [
-        "israel",
-        "nogueira",
+        "marcos",
+        "claudiano",
         "fast",
         "router"
     ],
     "authors": [
         {
-            "name": "Israel Nogueira",
-            "email": "israel@feats.com.br",
-            "homepage": "https://github.com/israel-nogueira",
+            "name": "Marcos Claudiano",
+            "email": "marcos@fenixsol.com.br",
+            "homepage": "https://github.com/mvclaudianobj",
             "role": "Developer"
         }
     ],
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "IsraelNogueira\\fastRouter\\": "src"
+            "MarcosClaudiano\\fastRouter\\": "src"
         }
     }
 }
